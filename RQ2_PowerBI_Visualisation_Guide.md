@@ -2,7 +2,6 @@
 # Mental Disorder Association Analysis and ICD-11 Alignment
 
 Generated: 2026-03-31  
-Prepared by: Ganenthra Ravindran
 
 ---
 

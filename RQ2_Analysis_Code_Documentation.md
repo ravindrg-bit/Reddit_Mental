@@ -3,7 +3,6 @@
 
 Generated: 2026-03-31  
 Notebook: `RQ2_analysis.ipynb`  
-Prepared by: Ganenthra Ravindran
 
 ---
 
